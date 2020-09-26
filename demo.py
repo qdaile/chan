@@ -1,6 +1,4 @@
-a=4 #gán biến a bằng 4
-print(a)
-print(type(a))#tìm kiểu dữ liệu của a
+
 
 b=1.6
 print(b)
