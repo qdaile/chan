@@ -43,4 +43,5 @@ print(j)
 v=6//5
 print(v)
 #
-s=
+s=12
+print (s)
